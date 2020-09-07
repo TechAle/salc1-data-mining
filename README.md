@@ -35,9 +35,9 @@ If yes, (TODO: add all the procedure)
 26) Achiviements (to do)
 ### Credits
 #### Author
-Youtube: TechAle
-Discord: TechAle#4773
+Youtube: TechAle<br>
+Discord: TechAle#4773<br>
 Email: alessandro.condello.email@gmail.com
 #### Owner of all this data
-Youtube: SalC1
+Youtube: SalC1<br>
 Discord: SalC1#5135
