@@ -17,8 +17,8 @@ If yes, (TODO: add all the procedure)
 8) Ordined list with name - time spent (to do)
 9) Who was online the longest (to do)
 10) average new chunks generated over time (in progress)
-11) how many chunks were explored (in progress)
-12) heaviest chunk (in progress)
+11) how many chunks were explored (in progress 20%)
+12) heaviest chunk (in progress 20%)
 13) Heat map of activity locations overall (in progress)
 14) Heat map of tnt explosions (to do)
 15) Popularity chart of first blocks broken / placed (to do)
@@ -33,6 +33,7 @@ If yes, (TODO: add all the procedure)
 24) who placed the most tnt around spawn (to do)
 25) What blocks were mined the most (to do)
 26) Achiviements (to do)
+27) A png for every maps of the server (done)
 ### Credits
 #### Author
 Youtube: TechAle<br>
