@@ -9,7 +9,7 @@ If yes, (TODO: add all the procedure)
 ### TODO
 1) Extract + Analyze + Export to csv every files (done)
 2) Who had most Kills/Deaths and what weapon was used the most for killing (done)
-3) Heat map of pvp occurrences (in progress)
+3) Heat map of pvp occurrences (done)
 4) Who killed most people near spawn (in progress)
 5) Most common words on sign (to do)
 6) how many signs (with text) were placed (to do)
